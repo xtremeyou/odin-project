@@ -1,6 +1,6 @@
 
         * {
-            color: black; background-color: #151D3B;
+            color: white; background-color: #2B4865;
             }
             .alert-text {
                 text-align: center;
@@ -21,33 +21,35 @@
     
             .first-h2 {
                 text-align: center;
-                background-color: #DADBBD;
+                background-color: #2B4865;
             }
             
             .second-h2 {
                 text-align: center;
-                background-color: #DADBBD;
+                background-color:  #2B4865;
                 margin: auto;
                 padding: 10px;
     
             }
     
+           
+
             .first-p {
-                border: 5px solid #DADBBD;
-                background-color: #DADBBD;
-                text-align: center;
+                border: 5px solid #2B4865;
+                background-color: #2B4865;
+                text-align: center;   
                 padding: 15px;
                 margin: 20px; 
                 
             }
             
             .list-1 {
-                background-color: #DADBBD;
+                background-color: #2B4865;
                 
             }
     
             .list-text {
-                background-color: #DADBBD;
+                background-color: #2B4865;
                 padding-left: ;
                 text-align: left;
                 margin: 5px;
@@ -56,25 +58,24 @@
     
             .list-text-1 {
                 padding-bottom: 5px;
-                background-color: #DADBBD;
+                background-color: #2B4865;
                 text-align: left;
             }
     
             .style-h1 {
                 text-align: center;
-                color: black; 
+                color: white; 
                 font-family: "Great Vibes", cursive; 
                 font-size: 50px; 
                 font-weight: normal;            
-                text-shadow: 0 2px 2px #DADBBD;
+                text-shadow: 0 2px 2px #2B4865;
                 margin: 20px;
             }
     
         
             .third-h2 {
                 text-align: center;
-                background-color: #DADBBD;
-                text-decoration: underline;
+                background-color: #2B4865;
             }
     
             .column {
@@ -90,9 +91,9 @@
               }
             .button-1 {
                 float: right;
-                background-color: #DADBBD;
-                border: none;
-                color: black;
+                background-color: #2B4865;
+                border: 2px solid white;
+                color: white;
                 padding: 10px 25px;
                 text-align: center;
                 text-decoration: none;
@@ -114,11 +115,22 @@
                 text-align: center;
                 margin: 25px;
                 padding: 25px;
-                background-color: #DADBBD;
+                background-color: #2B4865;
                 color: #555555;
             }
 
             .idkman {
-                color: black;
-                background-color: #DADBBD;   
+                color: white;
+                background-color: #2B4865; 
+                font-size: small; 
             }
+
+            * {
+                font-family: GTHaptik,Helvetica,Arial,Sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.2;
+                color: white;
+                font-weight: 400;
+                letter-spacing: .04em;
+                padding-top: 0.3125rem;
+               }

@@ -77,18 +77,21 @@
                 text-align: center;
                 background-color: #2B4865;
             }
-    
-            .column {
-                float: left;
-                width: 33.33%;
-                text-align: center;
-                
-              }
-    
-              .row {
+
+            .row {
                 display: flex;
                 
               }
+    
+            .column{
+                float: left;
+                width: 33.33%;
+                text-align: center;
+                flex: 1;
+                
+              }
+    
+             
             .button-1 {
                 float: right;
                 background-color: #2B4865;

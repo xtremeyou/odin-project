@@ -40,11 +40,13 @@
                 text-align: center;   
                 padding: 15px;
                 margin: 20px; 
+                margin-top: 50px;
                 
             }
             
             .list-1 {
                 background-color: #2B4865;
+                text-align: center;
                 
             }
     
@@ -121,6 +123,7 @@
                 padding: 25px;
                 background-color: #2B4865;
                 color: #555555;
+                margin-top: 150px;
             }
 
             .idkman {
@@ -137,4 +140,6 @@
                 font-weight: 400;
                 letter-spacing: .04em;
                 padding-top: 0.3125rem;
-               }
+            }
+
+            
